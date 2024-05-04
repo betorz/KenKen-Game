@@ -1,0 +1,4 @@
+Descripció del directori: Aquest és un directori que conté fitxers i/o altres directoris rellevants al projecte.
+Fitxers i directoris contigus:
+Fitxer: README.md - Fitxer Markdown amb informació o documentació.
+Fitxer: predBoards.txt - Fitxer genèric.

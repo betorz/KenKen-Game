@@ -1,0 +1,6 @@
+Descripció del directori: Aquest és un directori que conté fitxers i/o altres directoris rellevants al projecte.
+Fitxers i directoris contigus:
+Directori: DOCS - Conté components específics d'una part del projecte.
+Directori: EXE - Conté components específics d'una part del projecte.
+Directori: FONTS - Conté components específics d'una part del projecte.
+Directori: lib - Conté components específics d'una part del projecte.

@@ -1,0 +1,20 @@
+Descripció del directori: Aquest directori conté el codi font del projecte, incloent classes i tests.
+Fitxers i directoris contigus:
+Fitxer: Addition.java - Codi font Java.
+Fitxer: Board.java - Codi font Java.
+Fitxer: Cell.java - Codi font Java.
+Fitxer: Division.java - Codi font Java.
+Fitxer: Equal.java - Codi font Java.
+Fitxer: Game.java - Codi font Java.
+Fitxer: Module.java - Codi font Java.
+Fitxer: Multiplication.java - Codi font Java.
+Fitxer: Pair.java - Codi font Java.
+Fitxer: Power.java - Codi font Java.
+Fitxer: README.md - Fitxer Markdown amb informació o documentació.
+Fitxer: Ranking.java - Codi font Java.
+Fitxer: Region.java - Codi font Java.
+Fitxer: Solver.java - Codi font Java.
+Fitxer: Stats.java - Codi font Java.
+Fitxer: Subtraction.java - Codi font Java.
+Fitxer: User.java - Codi font Java.
+Directori: exceptions - Conté components específics d'una part del projecte.

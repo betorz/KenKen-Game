@@ -1,0 +1,6 @@
+Descripció del directori: Aquest directori conté el codi font del projecte, incloent classes i tests.
+Fitxers i directoris contigus:
+Fitxer: README.md - Fitxer Markdown amb informació o documentació.
+Directori: domain - Conté components específics d'una part del projecte.
+Directori: persistence - Conté components específics d'una part del projecte.
+Directori: presentation - Conté components específics d'una part del projecte.

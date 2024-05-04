@@ -1,0 +1,5 @@
+Descripció del directori: Aquest directori conté les biblioteques i dependències necessàries per al funcionament del projecte.
+Fitxers i directoris contigus:
+Fitxer: hamcrest-core-1.3.jar - Biblioteca Java o dependència.
+Fitxer: junit-4.13.2.jar - Biblioteca Java o dependència.
+Fitxer: mockito-core-4.9.0.jar - Biblioteca Java o dependència.
