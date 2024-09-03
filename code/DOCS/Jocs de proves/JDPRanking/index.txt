@@ -1,7 +1,0 @@
-Descripció del directori: Aquest directori conté documentació rellevant al projecte, incloent diagrames i definicions.
-Fitxers i directoris contigus:
-Fitxer: orderRankingByDifficulty.txt - Fitxer genèric.
-Fitxer: orderRankingByName.txt - Fitxer genèric.
-Fitxer: orderRankingByNumberOfSolved.txt - Fitxer genèric.
-Fitxer: orderRankingByPoints.txt - Fitxer genèric.
-Fitxer: orderRankingByTime.txt - Fitxer genèric.

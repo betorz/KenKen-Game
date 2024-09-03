@@ -1,7 +1,0 @@
-Descripció del directori: Aquest directori conté documentació rellevant al projecte, incloent diagrames i definicions.
-Fitxers i directoris contigus:
-Fitxer: changePassword.txt - Fitxer genèric.
-Fitxer: createUser.txt - Fitxer genèric.
-Fitxer: deleteUser.txt - Fitxer genèric.
-Fitxer: login.txt - Fitxer genèric.
-Fitxer: logout.txt - Fitxer genèric.

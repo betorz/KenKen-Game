@@ -1,6 +1,0 @@
-Descripció del directori: Aquest directori conté el codi font del projecte, incloent classes i tests.
-Fitxers i directoris contigus:
-Fitxer: DriverGame.java - Codi font Java.
-Fitxer: DriverRanking.java - Codi font Java.
-Fitxer: DriverUser.java - Codi font Java.
-Fitxer: README.md - Fitxer Markdown amb informació o documentació.

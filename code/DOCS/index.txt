@@ -1,8 +1,0 @@
-Descripció del directori: Aquest directori conté documentació rellevant al projecte, incloent diagrames i definicions.
-Fitxers i directoris contigus:
-Fitxer: Diagrama de classes.jpg - Recurs gràfic o document PDF.
-Fitxer: Diagrama de classes.pdf - Recurs gràfic o document PDF.
-Directori: Jocs de proves - Conté components específics d'una part del projecte.
-Fitxer: README.md - Fitxer Markdown amb informació o documentació.
-Fitxer: diagrama-casos-us.jpg - Recurs gràfic o document PDF.
-Fitxer: diagrama-casos-us.pdf - Recurs gràfic o document PDF.

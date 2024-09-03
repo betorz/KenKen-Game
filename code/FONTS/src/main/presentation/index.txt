@@ -1,3 +1,0 @@
-Descripció del directori: Aquest directori conté el codi font del projecte, incloent classes i tests.
-Fitxers i directoris contigus:
-Fitxer: README.md - Fitxer Markdown amb informació o documentació.

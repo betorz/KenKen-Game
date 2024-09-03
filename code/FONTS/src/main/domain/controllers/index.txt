@@ -1,8 +1,0 @@
-Descripció del directori: Aquest directori conté el codi font del projecte, incloent classes i tests.
-Fitxers i directoris contigus:
-Fitxer: CtrlBoard.java - Codi font Java.
-Fitxer: CtrlDomini.java - Codi font Java.
-Fitxer: CtrlGame.java - Codi font Java.
-Fitxer: CtrlRanking.java - Codi font Java.
-Fitxer: CtrlUser.java - Codi font Java.
-Fitxer: README.md - Fitxer Markdown amb informació o documentació.

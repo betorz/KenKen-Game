@@ -1,8 +1,0 @@
-1
-testUser
-testUserPsw
-testUserPsw
-
-2
-testUser
-testUserPsw
